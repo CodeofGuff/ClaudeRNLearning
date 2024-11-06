@@ -1,6 +1,6 @@
 <h2> I am using Claude to teach my Reaxct Native</h2> </br>
-<h3> Below is the course info.</h3></br>
-<h3> This was refined and made by ChatGPT first and then Claude </h3>
+<h3> Below is the course info.</h3>
+<h3> This was refined and made by ChatGPT first and then Claude: </h3>
 
 <p>
   Month 1: Week 1 - JavaScript Crash Course
